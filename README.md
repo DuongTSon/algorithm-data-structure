@@ -1,2 +1,3 @@
 # algorithm-data-structure
-Algorithm and data structure in the Stanford Algorithm course
+
+This repository contains code samples for problems in The Stanford Algorithm course.
